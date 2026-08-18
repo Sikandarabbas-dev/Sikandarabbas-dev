@@ -1,4 +1,4 @@
-# Hi, I'm Sikandar Abbas 👋
+# I'm Sikandar Abbas 
 
 ### Computer Science Student | AI & Machine Learning | Research-Oriented AI Developer
 
