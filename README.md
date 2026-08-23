@@ -1,174 +1,195 @@
-# I'm Sikandar Abbas 
+# Hi, I'm Sikandar Abbas 
 
-### Computer Science Student | AI & Machine Learning | Research-Oriented AI Developer
+### AI/ML Research Enthusiast | Computer Science Student | Building Intelligent AI Systems
 
-I am a Computer Science undergraduate with a strong interest in Artificial Intelligence and Machine Learning. My research interests focus on developing intelligent systems using modern AI methods, particularly Deep Learning, Large Language Models, Natural Language Processing, and Computer Vision.
+I am a Computer Science student at Green International University, Pakistan, interested in understanding how modern AI models can be developed into **practical, intelligent, and reliable systems**.
 
-I enjoy combining research-oriented ideas with practical implementation to build AI systems that address real-world problems. My long-term goal is to pursue graduate research in Artificial Intelligence and contribute to intelligent, adaptive, and data-driven systems.
+My work started with traditional machine learning and deep learning applications and has gradually moved toward **Large Language Models, Generative AI, multimodal systems, and intelligent AI applications**.
+
+Rather than focusing only on model training, I am interested in the complete process of turning AI research into usable systems — from data preparation and model development to inference, integration, and real-world deployment.
 
 ---
 
-## 🔬 Research Interests
+##  Research Direction
 
-### Core Research Areas
+My current research interests are centered around the intersection of **Machine Learning, Generative AI, and Intelligent Systems**.
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Large Language Models (LLMs)
-* Natural Language Processing (NLP)
-* Computer Vision
+### Core Areas
 
-### Related Areas
+*  **Machine Learning & Deep Learning**
 
+  * Predictive modeling
+  * Neural networks
+  * Transfer learning
+  * Computer vision
+
+*  **Large Language Models & NLP**
+
+  * LLM-based applications
+  * Prompt engineering
+  * AI-assisted automation
+  * Conversational systems
+
+*  **Generative & Multimodal AI**
+
+  * Text generation
+  * Text-to-image generation
+  * Multimodal interaction
+  * Combining different AI modalities
+
+*  **Intelligent AI Systems**
+
+  * AI agents and autonomous workflows
+  * AI-powered decision support
+  * Intelligent automation
+  * AI systems that connect models, data, and real-world applications
+
+### Long-Term Research Goal
+
+I aim to explore how **LLMs and multimodal AI can be combined with machine learning and intelligent system architectures to build AI systems capable of understanding information, reasoning over it, and supporting practical decision-making.**
+
+---
+
+##  Selected Projects
+
+###  Deep Learning Food Recognition & Recipe Analysis
+
+An AI-powered system for recognizing Pakistani and South Asian dishes from images.
+
+**Research/technical focus:**
+
+* CNN-based image classification
+* MobileNetV2 & transfer learning
+* Dataset preparation and preprocessing
+* Model training and evaluation
+* TensorFlow Lite conversion
+* On-device AI inference
+
+The project helped me explore how deep learning models can move beyond experiments and become part of a complete AI-powered application.
+
+ [Repository](https://github.com/Sikandarabbas-dev/deep-learning-food-classification)
+
+---
+
+###  NeuraStudio — Multimodal Generative AI Studio
+
+A Generative AI platform combining conversational LLM capabilities with AI image generation.
+
+**Research/technical focus:**
+
+* Large Language Models
+* Generative AI
+* Text-to-image generation
+* Prompt engineering
+* AI API integration
+* Multimodal interaction
+
+This project represents my transition from conventional ML applications toward **LLM-based and multimodal AI systems**.
+
+ [Repository](https://github.com/Sikandarabbas-dev/Neura-GenAI-Studio)
+
+---
+
+###  Machine Learning Predictive Maintenance System
+
+A machine-learning system designed to estimate equipment failure risk from sensor-related data.
+
+**Research/technical focus:**
+
+* Predictive modeling
+* Random Forest classification
+* Sensor-data analysis
+* Risk estimation
+* Automated decision support
+* ML backend development
+
+This project allowed me to explore how machine learning can be used for **prediction and intelligent decision-making in real-world environments**.
+
+ [Repository](https://github.com/Sikandarabbas-dev/predictive-maintenance-system)
+
+---
+
+##  Research Experience
+
+Currently, I am gaining research experience through work on **AI/ML-based student academic performance prediction**, involving educational datasets, data preprocessing, research documentation, and predictive modeling.
+
+This experience is helping me develop a stronger understanding of the transition from **building AI applications to conducting structured AI research**.
+
+---
+
+##  Technical Focus
+
+```text
+Languages
+Python • Java • SQL
+
+Machine Learning
+Scikit-learn • Statistical Analysis • Predictive Modeling
+
+Deep Learning
+TensorFlow • CNNs • Transfer Learning • MobileNetV2
+
+Generative AI
+LLMs • Prompt Engineering • Generative AI • AI APIs
+
+Development
+Git • GitHub • REST APIs • Flask • Next.js • React
+
+Research
+Literature Review • Research Methodology • Data Analysis
+```
+
+---
+
+##  What I'm Exploring Next
+
+My current learning and research interests are moving toward:
+
+**LLMs → Multimodal AI → AI Agents → Intelligent Systems → Research-oriented AI Applications**
+
+I am particularly interested in exploring systems where AI models are not isolated components, but work together with **data, tools, external knowledge, and decision-making mechanisms** to solve more complex problems.
+
+---
+
+##  Research Philosophy
+
+> **Build → Experiment → Evaluate → Understand → Improve**
+
+I believe practical projects are valuable not only for building software, but also for identifying research questions.
+
+My goal is to use hands-on experimentation to understand the limitations of current AI systems and explore ways to make them more **capable, useful, and intelligent**.
+
+---
+
+##  Currently Learning
+
+* Large Language Models
 * Generative AI
 * Multimodal AI
-* Intelligent Systems
-* AI Agents & Agentic AI
-* Predictive Analytics
-* Data Mining
-* AI-powered Automation
-
-I am particularly interested in research that combines learning, language, vision, and intelligent decision-making to develop practical and adaptive AI systems.
+* AI Agents
+* Advanced Machine Learning
+* Deep Learning
+* Research Methodology
+* AI-based Intelligent Systems
 
 ---
 
-## 🚀 Selected AI Projects
+##  Research & Collaboration
 
-### 🧠 Deep Learning Food Classification
+I am interested in connecting with researchers and students working in:
 
-**Problem:**
-Identifying traditional dishes from images is challenging for users and conventional recipe applications often depend on manual or text-based searches.
+**Machine Learning • Deep Learning • LLMs • Generative AI • Multimodal AI • AI Agents • Intelligent Systems**
 
-**Solution:**
-Developed an AI-powered mobile application that recognizes a dish from an uploaded or captured image and provides the corresponding ingredients, nutritional information, recipe, and related information.
-
-**Methodology:**
-
-* Convolutional Neural Network (CNN)
-* MobileNetV2 with Transfer Learning
-* Image preprocessing and normalization
-* 224 × 224 × 3 RGB input
-* 10-class image classification
-* Softmax probability prediction
-* Confidence thresholding
-* TensorFlow → TensorFlow Lite for on-device inference
-* Firebase-based data and model integration
-
-**Results:**
-
-* ~96% training accuracy
-* ~75% testing accuracy
-* ~1,200 training images
-* 39 validation images
-* 58 testing images
-* 10 dish classes
-
-**My Contribution:**
-Designed and implemented the deep learning-based dish recognition system, including model training, transfer learning, image preprocessing, TensorFlow Lite deployment, and integration of the trained model into the Flutter mobile application.
-
-[View Project →](https://github.com/Sikandarabbas-dev/deep-learning-food-classification)
+I am particularly interested in opportunities where I can contribute to research while developing deeper expertise in **AI model development, experimentation, and intelligent system design**.
 
 ---
 
-### 🤖 GIU GPT — AI-Powered Academic Chatbot
+##  Connect
 
-**Problem:**
-University students may need immediate academic assistance outside classroom hours, while conventional academic support is often limited by availability and does not provide interactive conversational assistance.
-
-**Solution:**
-Developed an AI-powered academic chatbot that provides students with instant responses to academic questions through a web-based conversational interface.
-
-**Methodology:**
-
-* Large Language Model (LLM)
-* Natural Language Processing (NLP)
-* Conversational AI
-* OpenAI API integration
-* Conversation memory
-* Subject-wise filtering
-* Firebase-based cloud database
-* Flask-based backend
-* Web-based user interface
-
-**Result:**
-Built a functional academic chatbot capable of providing 24/7 AI-based academic assistance through a web application, with conversation memory and subject-wise organization.
-
-**My Contribution:**
-Designed and developed the chatbot application, integrated the LLM through the OpenAI API, implemented conversation memory and subject-wise filtering, and developed the supporting web application and database integration.
+*  GitHub: [Sikandarabbas-dev](https://github.com/Sikandarabbas-dev)
+*  LinkedIn: [Sikandar Abbas](https://www.linkedin.com/in/sikandarabbas1/)
+*  Email: [sikandar.info5@gmail.com](mailto:sikandar.info5@gmail.com)
 
 ---
 
-### ☀️ AI-Enabled IoT Smart Solar Tracking & Energy Prediction
-
-**Problem:**
-Fixed solar panel positioning can reduce energy capture because the panel does not continuously align with the changing position of the sun. In addition, predicting future energy generation can support better monitoring and planning.
-
-**Solution:**
-Developed an AI and IoT-based dual-axis solar tracking system that automatically follows the sun while using machine learning to predict energy generation.
-
-**Methodology:**
-
-* IoT-based solar tracking
-* ESP32 microcontroller
-* Sensors for automated tracking
-* Machine Learning-based energy prediction
-* Random Forest
-* Linear Regression
-* Data preprocessing and analysis
-* Real-time monitoring
-* Firebase and MQTT integration
-* Streamlit/Flask-based visualization
-
-**Result:**
-Implemented an integrated prototype combining automatic solar tracking, machine learning-based energy prediction, and real-time monitoring of solar energy generation.
-
-**My Contribution:**
-Designed and implemented the AI/IoT system, developed the machine learning prediction component, integrated ESP32 and sensor-based tracking, and developed the real-time monitoring and visualization components.
-
----
-
-## 🛠️ Technical Areas
-
-**Programming**
-Python · C++ · Java · SQL
-
-**Artificial Intelligence**
-Machine Learning · Deep Learning · NLP · LLMs · Computer Vision · Predictive Analytics
-
-**AI Development**
-Generative AI · Conversational AI · AI Agents · Prompt Engineering · REST APIs · API Integration
-
-**Frameworks & Tools**
-TensorFlow · TensorFlow Lite · Scikit-learn · Flask · Streamlit · Firebase · Pandas · NumPy · Git · GitHub · Power BI
-
----
-
-## 🎓 Education
-
-**BS Computer Science**
-Green International University, Lahore, Pakistan
-2023 – 2027
-
-My academic background includes Artificial Intelligence, Data Structures & Algorithms, Database Systems, Object-Oriented Programming, Software Engineering, Operating Systems, Probability & Statistics, and Research Methodology.
-
----
-
-## 🌱 Current Research Direction
-
-I am currently exploring research problems at the intersection of:
-
-**Artificial Intelligence → Machine Learning → Deep Learning → LLMs/NLP → Computer Vision → Intelligent Systems**
-
-My future research interests include developing AI models and intelligent systems that can learn from complex data, understand language and visual information, and support adaptive decision-making in real-world applications.
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: [Sikandar Abbas](https://www.linkedin.com/in/sikandarabbas1/)
-* Email: [sikandar.info5@gmail.com](mailto:sikandar.info5@gmail.com)
-
----
-
-> Building intelligent systems through AI, learning from data, and exploring new directions in machine intelligence.
+###  Building AI systems today, researching intelligent systems for tomorrow.
