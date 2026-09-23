@@ -1,4 +1,4 @@
-# Hi, I'm Sikandar Abbas 
+# Sikandar Abbas 
 
 ### AI/ML Research Enthusiast | Computer Science Student
 
