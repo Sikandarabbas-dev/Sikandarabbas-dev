@@ -1,4 +1,4 @@
-# Hi, I'm Sikandar Abbas 👋
+# Hi, I'm Sikandar Abbas 
 
 ### AI/ML Research Enthusiast | Computer Science Student
 
@@ -10,7 +10,7 @@ Currently, I’m also gaining academic research experience in AI/ML-based predic
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 My main research interests are:
 
@@ -23,7 +23,7 @@ I’m particularly interested in how learning-based models can be combined with 
 
 ---
 
-## 🧠 Areas I Like Exploring
+##  Areas I Like Exploring
 
 **LLMs & NLP**
 - Conversational AI
@@ -51,7 +51,7 @@ I’m particularly interested in how learning-based models can be combined with 
 
 ---
 
-## 🚀 Selected Work
+##  Selected Work
 
 ### NeuraStudio — Multimodal Generative AI
 
@@ -91,7 +91,7 @@ An NLP-based project for matching resumes with job descriptions using traditiona
 
 ---
 
-## 🧪 Research Experience
+##  Research Experience
 
 I am currently contributing to an academic project focused on **student academic performance prediction**.
 
@@ -101,7 +101,7 @@ This experience is helping me move from building standalone AI applications towa
 
 ---
 
-## 🛠️ Technical Focus
+##  Technical Focus
 
 ```text
 Programming
